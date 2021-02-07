@@ -1,3 +1,3 @@
-# Play_with_Hello_World
+# Play with Hello World
 
 I just wanted to make a repo for my "Hello World!" codes in C.
